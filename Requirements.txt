@@ -1,0 +1,10 @@
+transformers==4.40.2
+torch>=2.1.0
+datasets
+nltk
+scikit-learn
+beautifulsoup4
+numpy
+evaluate
+rouge_score
+absl-py
